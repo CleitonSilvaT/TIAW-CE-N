@@ -2,6 +2,4 @@
 
 ## Professores:
 
-Thiagos
-
-Cleiton
+Thiago
